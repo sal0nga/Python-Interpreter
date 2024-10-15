@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 To compile our program, you will have to use this command:
     -For Mac users: g++ -std=c++14 *.cpp -o mypython
     -For Windows users:
@@ -12,3 +13,7 @@ Add more details here below to show them how our program works, what it does, an
     -
 
 
+=======
+# python_interpreter
+a python interpreter, coded in C++
+>>>>>>> origin/main
